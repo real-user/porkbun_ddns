@@ -17,6 +17,6 @@ Supports both base domains, subdomains and also wildcards.
 
 ## Installation: 
 
-podman build -t porkbun_ddns
+podman build -t porkbun_ddns .
 or
-docker build -t porkbun_ddns
+docker build -t porkbun_ddns .
